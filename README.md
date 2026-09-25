@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Bro !, I'm Rizal 👋
 
 <!--
 **Rizalkhaerulanam-hub/Rizalkhaerulanam-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+⚡ Fun fact: Bug pertama dalam komputer literally serangga! 🪲
+Tahun 1947, Grace Hopper menemukan seekor ngengat terjebak di dalam komputer Harvard Mark II. Itulah asal mula istilah "bug" dalam pemrograman.
