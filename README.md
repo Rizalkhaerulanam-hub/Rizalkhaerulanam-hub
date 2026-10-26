@@ -1,159 +1,156 @@
 <div align="center">
 
-<<<<<<< HEAD
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rizal%20Khaerul%20Anam&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<!-- Header Dynamic Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,24&height=220&section=header&text=Rizal%20Khaerul%20Anam&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Crafting%20Code%20%E2%80%A2%20Designing%20Visuals%20%E2%80%A2%20Building%20Ideas&descAlignY=58&descSize=19" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B+I'm+Rizal+Khaerul+Anam;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things+%F0%9F%9A%80;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+<a href="https://github.com/Rizalkhaerulanam-hub">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=620&lines=%F0%9F%91%8B+Hi+there!+I'm+Rizal+Khaerul+Anam;%F0%9F%92%BB+Software+%26+Web+Developer;%F0%9F%8E%A8+Digital+Designer+%26+3D+Enthusiast;%E2%9A%A1+Always+Exploring+%26+Creating+Cool+Stuff!;%F0%9F%9A%80+Welcome+to+my+creative+space!" alt="Typing SVG" />
 </a>
 
-<br/>
+<p align="center">
+  <a href="https://instagram.com/_khaeruull" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://tiktok.com/@_khaeruull" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="mailto:rizalkhaerulanam@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=Rizalkhaerulanam-hub&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Rizalkhaerulanam-hub?label=Followers&style=social" alt="GitHub Followers"/>
+<!-- Live Visitors & Followers Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rizalkhaerulanam-hub&label=%F0%9F%91%81%EF%B8%8F%20Profile%20Views&color=4facfe&style=flat-square" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Rizalkhaerulanam-hub?label=Followers&logo=github&style=flat-square&color=24292e" alt="GitHub Followers" />
+</p>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+### 💫 About Me
 
-```python
-class RizalKhaerulAnam:
-    def __init__(self):
-<<<<<<< HEAD
-        self.name       = "Rizal Khaerul Anam"
-=======
-        self.name       = "Rizal Khaerul anam"
->>>>>>> cadc3e44f5e0dbfcb135f503ae399f79e4f348a3
-        self.role       = "Full Stack Developer"
-        self.location   = "Indonesia 🇮🇩"
-        self.languages  = ["Python", "JavaScript", "TypeScript"]
-        self.hobbies    = ["Coding", "Learning", "Open Source"]
-        self.fun_fact   = "Bug pertama dalam komputer adalah serangga sungguhan! 🪲"
-
-    def say_hello(self):
-        print("Hai! Selamat datang di profile GitHub saya!")
-
-me = RizalKhaerulAnam()
-me.say_hello()
+```javascript
+const rizal = {
+    pronouns: "He" | "Him",
+    fullName: "Rizal Khaerul Anam",
+    passion: ["Coding", "Graphic Design", "3D Modeling", "Gaming"],
+    philosophy: "Turn caffeine and curiosity into digital reality ⚡",
+    currentlyBuilding: "Modern web applications & visual creative assets",
+    askMeAbout: ["JavaScript", "Python", "C++", "Creative Tools & Design"],
+    getInTouch: {
+        instagram: "@_khaeruull",
+        tiktok: "@_khaeruull"
+    }
+};
 ```
 
 ---
 
-## 🚀 Tech Stack
+### 🛠️ Tech Stack & Creative Suite
+
+<table>
+  <tr>
+    <td width="33%" align="center"><strong>💻 Programming & Core</strong></td>
+    <td width="33%" align="center"><strong>🌐 Web Technologies</strong></td>
+    <td width="33%" align="center"><strong>🎨 Design & 3D Tools</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cpp,python,java,php,c" /><br/><br/>
+      <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
+      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs" /><br/><br/>
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=blender,ps,ai,pr,figma" /><br/><br/>
+      <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Photoshop-31A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🛠️ Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+#### 🎮 Fun & Gaming Rig
+![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)
+![Riot Games](https://img.shields.io/badge/Riot%20Games-D32936?style=flat-square&logo=riotgames&logoColor=white)
+![Xbox](https://img.shields.io/badge/Xbox-107C10?style=flat-square&logo=xbox&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Activity & Insights
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rizalkhaerulanam-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizalkhaerulanam-hub&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<!-- GitHub Stats & Top Langs -->
+<a href="https://github.com/Rizalkhaerulanam-hub">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rizalkhaerulanam-hub&show_icons=true&theme=tokyonight&hide_border=false&border_radius=12&border_color=4facfe" height="175"/>
+</a>
+<a href="https://github.com/Rizalkhaerulanam-hub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizalkhaerulanam-hub&layout=compact&theme=tokyonight&hide_border=false&border_radius=12&border_color=00f2fe" height="175"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rizalkhaerulanam-hub&theme=tokyonight&hide_border=true" width="500"/>
+<!-- Streak Stats -->
+<a href="https://github.com/Rizalkhaerulanam-hub">
+  <img src="https://streak-stats.demolab.com/?user=Rizalkhaerulanam-hub&theme=tokyonight&hide_border=false&border_radius=12&border=4facfe" alt="GitHub Streak" width="85%" />
+</a>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+### 🏆 Achievements & Badges
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Rizalkhaerulanam-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rizalkhaerulanam-hub&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&margin-h=4&row=1&column=7" width="95%"/>
 </div>
 
 ---
 
-## 🌐 Connect With Me
+### 💡 Daily Dev Inspiration
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rizalkhaerulanam)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rizalkhaerulanam)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rizalkhaerulanam)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rizalkhaerulanam@gmail.com)
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
 ---
 
-## ⚡ Fun Fact
-
-> 🪲 **Bug pertama dalam komputer literally serangga!**  
-> Tahun **1947**, Grace Hopper menemukan seekor ngengat terjebak di dalam komputer Harvard Mark II.  
-> Itulah asal mula istilah **"bug"** dalam pemrograman.
-
----
+### 🐍 Contribution Activity
 
 <div align="center">
 
-<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rizalkhaerulanam-hub/Rizalkhaerulanam-hub/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rizalkhaerulanam-hub/Rizalkhaerulanam-hub/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Rizalkhaerulanam-hub/Rizalkhaerulanam-hub/output/github-snake.svg" />
+  <img alt="GitHub Snake Contribution Graph" src="https://raw.githubusercontent.com/Rizalkhaerulanam-hub/Rizalkhaerulanam-hub/output/github-snake.svg" width="95%"/>
 </picture>
 
-<br/>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
 </div>
-=======
-
-⚡ Fun fact: Bug pertama dalam komputer literally serangga! 🪲
-Tahun 1947, Grace Hopper menemukan seekor ngengat terjebak di dalam komputer Harvard Mark II. Itulah asal mula istilah "bug" dalam pemrograman.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_khaeruull) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_khaeruull) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Rizalkhaerulanam-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Rizalkhaerulanam-hub&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rizalkhaerulanam-hub&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rizalkhaerulanam-hub&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rizalkhaerulanam-hub&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Rizalkhaerulanam-hub&icon=10&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
->>>>>>> 250b44b5f7103a5c3afded9f4299f083620018f8
+<div align="center">
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,24&height=120&section=footer" width="100%"/>
+
+</div>
