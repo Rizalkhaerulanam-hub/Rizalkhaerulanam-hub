@@ -2,11 +2,11 @@
 
 <<<<<<< HEAD
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rizal%20Khaerulanam&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rizal%20Khaerul%20Anam&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B+I'm+Rizal;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things+%F0%9F%9A%80;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+There!+%F0%9F%91%8B+I'm+Rizal+Khaerul+Anam;Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things+%F0%9F%9A%80;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,9 +23,9 @@
 ## 🧑‍💻 About Me
 
 ```python
-class RizalKhaerulanam:
+class RizalKhaerulAnam:
     def __init__(self):
-        self.name       = "Rizal Khaerulanam"
+        self.name       = "Rizal Khaerul Anam"
         self.role       = "Full Stack Developer"
         self.location   = "Indonesia 🇮🇩"
         self.languages  = ["Python", "JavaScript", "TypeScript"]
@@ -35,7 +35,7 @@ class RizalKhaerulanam:
     def say_hello(self):
         print("Hai! Selamat datang di profile GitHub saya!")
 
-me = RizalKhaerulanam()
+me = RizalKhaerulAnam()
 me.say_hello()
 ```
 
