@@ -25,7 +25,11 @@
 ```python
 class RizalKhaerulAnam:
     def __init__(self):
+<<<<<<< HEAD
         self.name       = "Rizal Khaerul Anam"
+=======
+        self.name       = "Rizal Khaerul anam"
+>>>>>>> cadc3e44f5e0dbfcb135f503ae399f79e4f348a3
         self.role       = "Full Stack Developer"
         self.location   = "Indonesia 🇮🇩"
         self.languages  = ["Python", "JavaScript", "TypeScript"]
